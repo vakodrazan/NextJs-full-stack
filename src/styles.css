@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header,
+footer {
+  min-height: 5vh;
+}
+main {
+  min-height: 90vh;
+}
